@@ -6,3 +6,9 @@ Semii
 - web development
 - art (gimp, canva, figma)
 - basic video editing
+
+
+
+
+
+
